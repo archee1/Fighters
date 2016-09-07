@@ -10,7 +10,11 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
+<<<<<<< HEAD
     <object>objects\object1</object>
+=======
+    <object>objects\object2</object>
+>>>>>>> 40baf3845586c9aaa501046183550408e4d0736f
   </objects>
   <help>
     <rtf>help.rtf</rtf>
